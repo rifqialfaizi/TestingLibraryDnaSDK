@@ -1,0 +1,14 @@
+//
+//  GlobalImport.pch
+//  KRelease
+//
+//  Created by Mehreen waqar on 09/07/23.
+//
+
+#ifndef GlobalImport_pch
+#define GlobalImport_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "FBLPromise+Extension.h"
+#endif /* GlobalImport_pch */

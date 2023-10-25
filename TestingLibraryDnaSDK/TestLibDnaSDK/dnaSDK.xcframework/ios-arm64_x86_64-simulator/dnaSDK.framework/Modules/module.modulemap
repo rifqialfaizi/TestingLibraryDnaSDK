@@ -1,0 +1,11 @@
+framework module dnaSDK {
+  umbrella header "dnaSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module dnaSDK.Swift {
+  header "dnaSDK-Swift.h"
+  requires objc
+}

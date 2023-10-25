@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://nea.telkomsel.com",
+    "folder": "dna_ios",
+    "anonymous": true,
+    "dataCollect": true,
+    "defaultBackgroundMode": 1
+    
+}
